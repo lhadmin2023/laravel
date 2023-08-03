@@ -1,0 +1,7 @@
+[02-Apr-2023 15:30:22 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 77824 bytes) in /home/abctask/domeny/kmspares.abc-task.kz/vendor/composer/ClassLoader.php on line 571
+[02-Apr-2023 22:30:59 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 65536 bytes) in /home/abctask/domeny/kmspares.abc-task.kz/vendor/composer/ClassLoader.php on line 571
+[10-Apr-2023 04:01:19 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 77824 bytes) in /home/abctask/domeny/kmspares.abc-task.kz/vendor/composer/ClassLoader.php on line 571
+[12-Apr-2023 09:00:43 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 65536 bytes) in /home/abctask/domeny/kmspares.abc-task.kz/vendor/composer/ClassLoader.php on line 571
+[12-Apr-2023 20:31:03 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in /home/abctask/domeny/kmspares.abc-task.kz/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2410
+[13-Apr-2023 07:01:19 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 90112 bytes) in /home/abctask/domeny/kmspares.abc-task.kz/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 25
+[16-Apr-2023 14:00:58 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in /home/abctask/domeny/kmspares.abc-task.kz/vendor/twig/twig/src/Extension/CoreExtension.php on line 1556
